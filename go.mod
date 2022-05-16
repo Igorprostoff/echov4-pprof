@@ -1,4 +1,4 @@
-module echo-pprof
+module github.com/igorprostoff/echo4-pprof
 
 go 1.13
 
